@@ -26,8 +26,8 @@ export default function Navbar() {
           Contact
         </a>
       </div>
-      <div className="flex justify-end flex-grow">
-        <button className="border-2 rounded-full text-base text-white bg-[#5c50f0] font-semibold pt-3 pb-3 pr-6 pl-6">
+      <div className="mr-8 flex justify-end flex-grow">
+        <button className="border-2 rounded-full text-base text-white bg-[#5c50f0] hover:bg-indigo-600 font-semibold pt-3 pb-3 pr-6 pl-6">
           📅 Schedule a Consultation
         </button>
       </div>
